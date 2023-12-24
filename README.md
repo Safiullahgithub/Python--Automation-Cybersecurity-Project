@@ -25,9 +25,12 @@ Provides detailed scan information, including open ports, IP status, and detecte
 git clone https://github.com/Safiullahgithub/nmap-automation-tool.git
 
 # Install the required dependencies:
+ pip install python-nmap
+
+ # screen shot
 <img width="960" alt="1" src="https://github.com/Safiullahgithub/Python--Automation-Cybersecurity-Project/assets/141447767/ed8b354d-bd82-48bb-b8cb-d396e6175631">
 
-# pip install python-nmap
+
 
 
 # Run the script:
