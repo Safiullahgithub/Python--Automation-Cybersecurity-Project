@@ -1,4 +1,4 @@
-# Python-Automation-Cybersecurity-Project
+# Nmap Automation Tool
 
 NMAP Automation Tool
 Welcome to the NMAP Automation Tool, a Python script for conducting various types of network scans using the Nmap library.
