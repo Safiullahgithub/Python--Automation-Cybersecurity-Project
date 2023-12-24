@@ -4,17 +4,22 @@ NMAP Automation Tool
 Welcome to the NMAP Automation Tool, a Python script for conducting various types of network scans using the Nmap library.
 
 Description
-This tool provides a simple command-line interface to perform the following types of scans:
 
+This tool provides a simple command-line interface to perform the following types of scans:
 SYN ACK SCAN: A TCP scan that determines which TCP ports are open.
 UDP SCAN: A UDP scan to discover UDP services.
 OVERALL SCAN: An extensive scan including service version detection and script scanning.
 Usage
 
 Features
-User-Friendly Interface: Simple command-line interface for inputting IP addresses and selecting scan types.
-Versatile Scanning Options: Supports SYN ACK, UDP, and overall scans to cater to different needs.
-Detailed Output: Provides detailed scan information, including open ports, IP status, and detected vulnerabilities (if applicable).
+User-Friendly Interface: 
+Simple command-line interface for inputting IP addresses and selecting scan types.
+
+Versatile Scanning Options:
+Supports SYN ACK, UDP, and overall scans to cater to different needs.
+
+Detailed Output:
+Provides detailed scan information, including open ports, IP status, and detected vulnerabilities (if applicable).
 
 Clone the repository:
 git clone https://github.com/Safiullahgithub/nmap-automation-tool.git
