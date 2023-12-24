@@ -24,7 +24,9 @@ Provides detailed scan information, including open ports, IP status, and detecte
 Clone the repository:
 git clone https://github.com/Safiullahgithub/nmap-automation-tool.git
 
-Install the required dependencies:
+Install the required dependencies:<img width="960" alt="1" src="https://github.com/Safiullahgithub/Python--Automation-Cybersecurity-Project/assets/141447767/7dd4ff45-1ed4-410f-9957-f3e777210bb4">
+<img width="960" alt="1" src="https://github.com/Safiullahgithub/Python--Automation-Cybersecurity-Project/assets/141447767/ed8b354d-bd82-48bb-b8cb-d396e6175631">
+
 pip install python-nmap
 
 
@@ -35,7 +37,7 @@ python nmap_automation_tool.py
 Follow the on-screen instructions to input the IP address and select the type of scan you want to perform.
 
 Requirements
-Python 3.x
+Python3 
 python-nmap library
 Contributing
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
